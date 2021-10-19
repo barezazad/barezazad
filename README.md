@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development 
 - 🔭 I’m currently working on Golang
 - 🌱 I’m currently learning devOps
-- 💬 Ask me about Golang,Angular,Mysql,Mongodb,C#
+- 💬 Ask me about Golang,Angular,C#,Docker
 - 📫 How to reach me: barezazad100@gmail.com , +964 750 170 4380
 
 <!---
