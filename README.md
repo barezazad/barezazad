@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning devOps
 - 💬 Ask me about Golang, Angular, C#, Docker
 - 📫 How to reach me: barezazad100@gmail.com , +964 750 170 4380
-
+<!-- 
 <br>
 <div align="center"> 
  
@@ -15,3 +15,4 @@
 ![Barez's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=barezazad&show_icons=true&theme=tokyonight)
 
 </div> 
+ -->
