@@ -2,9 +2,9 @@
 <h3 align="center">FullStack Developer</h3>
 
 - 👀 I’m interested in Full Stack Development 
-- 🔭 I’m currently working on Golang
-- 🌱 I’m currently learning devOps
-- 💬 Ask me about Golang, Angular, C#, Docker
+- 🔭 I’m currently working on devops
+- 🌱 I’m currently learning kubernetes.
+- 💬 Ask me about Golang, Angular, C#, Docker, Linux
 - 📫 How to reach me: barezazad100@gmail.com , +964 750 170 4380
 <!-- 
 <br>
