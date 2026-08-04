@@ -1,17 +1,95 @@
 <h1 align="center">Hi 👋, I'm Barez Azad</h1>
-<h3 align="center">FullStack Developer</h3>
 
-- 👀 I’m interested in Full Stack Development 
-- 🔭 I’m currently working on DevOps, Backend
-- 💬 Ask me about Golang, Docker, Linux, Angular 
-- 📫 How to reach me: barezazad100@gmail.com , +964 770 554 9911
-<!-- 
-<br>
-<div align="center"> 
- 
-![Barez's GitHub stats](https://github-readme-stats.vercel.app/api?username=barezazad&show_icons=true&theme=tokyonight)
+<p align="center">
+  <strong>Senior Backend Developer • DevOps Engineer • Go</strong>
+</p>
 
-![Barez's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=barezazad&show_icons=true&theme=tokyonight)
+<p align="center">
+Building scalable backend systems for Telecommunications, FinTech, and Enterprise Software.
+</p>
 
-</div> 
- -->
+---
+
+## About Me
+
+Senior Backend Developer and DevOps Engineer with 7+ years of professional experience building backend platforms, API architectures, DevOps infrastructure, and enterprise systems.
+
+Currently working as Software & Data Director at Ruyat Technologies, leading engineering teams while remaining hands-on with backend development and infrastructure. Experienced in designing and building production systems. :contentReference[oaicite:1]{index=1}
+
+---
+
+## Tech Stack
+
+### Backend
+
+- Go
+- REST APIs
+- GraphQL
+- Gin
+- GORM
+- JWT
+- Concurrency
+- WebSocket
+- WebRTC
+- NATS
+- SMPP
+
+### DevOps & Infrastructure
+
+- Docker
+- Docker Compose
+- Docker Swarm
+- Linux
+- Nginx
+- HAProxy
+- CI/CD
+- SSL/TLS
+
+### Databases
+
+- MySQL
+- PostgreSQL
+- Redis
+- MongoDB
+- Cassandra
+
+### Cloud & Storage
+
+- AWS
+- Azure
+- MinIO (S3)
+
+### Monitoring
+
+- Prometheus
+- Grafana
+- ELK Stack
+- Sentry
+
+---
+
+## Industries
+
+- Telecommunications
+- FinTech
+- Enterprise Software
+- Digital Payments
+- SaaS
+
+---
+
+## Open Source
+
+- GoRestify — Go REST API Boilerplate
+- Dragon — Angular Enterprise Boilerplate
+- CES — Currency Exchange Management System
+
+---
+
+## Contact
+
+📧 **barezazad100@gmail.com**
+
+💼 **linkedin.com/in/barez-azad1**
+
+🌍 **github.com/barezazad**
