@@ -20,61 +20,21 @@ Currently working as Software & Data Director at Ruyat Technologies, leading eng
 
 ## Tech Stack
 
-### Backend
+Go • REST APIs • GraphQL • Gin • GORM • JWT • Concurrency • WebSocket • WebRTC • NATS • SMPP
 
-- Go
-- REST APIs
-- GraphQL
-- Gin
-- GORM
-- JWT
-- Concurrency
-- WebSocket
-- WebRTC
-- NATS
-- SMPP
+Docker • Docker Compose • Docker Swarm • Linux • Nginx • HAProxy • CI/CD • SSL/TLS
 
-### DevOps & Infrastructure
+MySQL • PostgreSQL • Redis • MongoDB • Cassandra
 
-- Docker
-- Docker Compose
-- Docker Swarm
-- Linux
-- Nginx
-- HAProxy
-- CI/CD
-- SSL/TLS
+AWS • Azure • MinIO (S3)
 
-### Databases
-
-- MySQL
-- PostgreSQL
-- Redis
-- MongoDB
-- Cassandra
-
-### Cloud & Storage
-
-- AWS
-- Azure
-- MinIO (S3)
-
-### Monitoring
-
-- Prometheus
-- Grafana
-- ELK Stack
-- Sentry
+Prometheus • Grafana • ELK Stack • Sentry
 
 ---
 
 ## Industries
 
-- Telecommunications
-- FinTech
-- Enterprise Software
-- Digital Payments
-- SaaS
+Telecommunications • FinTech • Enterprise Software • Digital Payments • SaaS
 
 ---
 
