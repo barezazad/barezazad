@@ -42,7 +42,6 @@ Telecommunications • FinTech • Enterprise Software • Digital Payments • 
 
 - GoRestify — Go REST API Boilerplate
 - Dragon — Angular Enterprise Boilerplate
-- CES — Currency Exchange Management System
 
 ---
 
