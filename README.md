@@ -14,7 +14,7 @@ Building scalable backend systems for Telecommunications, FinTech, and Enterpris
 
 Senior Backend Developer and DevOps Engineer with 7+ years of professional experience building backend platforms, API architectures, DevOps infrastructure, and enterprise systems.
 
-Currently working as Software & Data Director at Ruyat Technologies, leading engineering teams while remaining hands-on with backend development and infrastructure. Experienced in designing and building production systems. :contentReference[oaicite:1]{index=1}
+Currently working as Software & Data Director at Ruyat Technologies, leading engineering teams while remaining hands-on with backend development and infrastructure. Experienced in designing and building production systems.
 
 ---
 
